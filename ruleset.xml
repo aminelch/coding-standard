@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="Amine LOUHICHI's Coding standard">
+    <description>Coding standard for my personal PHP projects</description>
+    <!-- Include PSR-12 Extended Coding Style -->
+    <rule ref="PSR12"/>
+</ruleset>

@@ -1,0 +1,4 @@
+.vimrc
+.swp
+.idea/*
+composer.lock

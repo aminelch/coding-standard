@@ -1,0 +1,28 @@
+{
+  "name": "aminelch/coding-standard",
+  "type": "library",
+  "description": "Coding standard for PHP projects.",
+  "keywords": [
+    "PHP",
+    "coding standard",
+    "code sniffer",
+    "phpcs",
+    "style",
+    "guideline"
+  ],
+  "homepage": "https://gitlab.com/aminelch/coding-standard",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Amine LOUHICHI",
+      "role": "maintainer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "squizlabs/php_codesniffer": "3.*"
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
